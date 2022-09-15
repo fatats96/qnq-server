@@ -1,0 +1,12 @@
+C:\Users\mrFatih\source\repos\QandQ.MovieAPI\QandQ.Core\bin\Debug\net6.0\QandQ.Core.deps.json
+C:\Users\mrFatih\source\repos\QandQ.MovieAPI\QandQ.Core\bin\Debug\net6.0\QandQ.Core.dll
+C:\Users\mrFatih\source\repos\QandQ.MovieAPI\QandQ.Core\bin\Debug\net6.0\QandQ.Core.pdb
+C:\Users\mrFatih\source\repos\QandQ.MovieAPI\QandQ.Core\obj\Debug\net6.0\QandQ.Core.csproj.AssemblyReference.cache
+C:\Users\mrFatih\source\repos\QandQ.MovieAPI\QandQ.Core\obj\Debug\net6.0\QandQ.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mrFatih\source\repos\QandQ.MovieAPI\QandQ.Core\obj\Debug\net6.0\QandQ.Core.AssemblyInfoInputs.cache
+C:\Users\mrFatih\source\repos\QandQ.MovieAPI\QandQ.Core\obj\Debug\net6.0\QandQ.Core.AssemblyInfo.cs
+C:\Users\mrFatih\source\repos\QandQ.MovieAPI\QandQ.Core\obj\Debug\net6.0\QandQ.Core.csproj.CoreCompileInputs.cache
+C:\Users\mrFatih\source\repos\QandQ.MovieAPI\QandQ.Core\obj\Debug\net6.0\QandQ.Core.dll
+C:\Users\mrFatih\source\repos\QandQ.MovieAPI\QandQ.Core\obj\Debug\net6.0\refint\QandQ.Core.dll
+C:\Users\mrFatih\source\repos\QandQ.MovieAPI\QandQ.Core\obj\Debug\net6.0\QandQ.Core.pdb
+C:\Users\mrFatih\source\repos\QandQ.MovieAPI\QandQ.Core\obj\Debug\net6.0\ref\QandQ.Core.dll

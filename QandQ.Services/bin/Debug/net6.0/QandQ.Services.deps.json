@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "QandQ.Services/1.0.0": {
+        "dependencies": {
+          "QandQ.Core": "1.0.0"
+        },
+        "runtime": {
+          "QandQ.Services.dll": {}
+        }
+      },
+      "QandQ.Core/1.0.0": {
+        "runtime": {
+          "QandQ.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "QandQ.Services/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "QandQ.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

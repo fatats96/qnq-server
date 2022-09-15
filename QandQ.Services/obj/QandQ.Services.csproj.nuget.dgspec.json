@@ -1,0 +1,122 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\mrFatih\\source\\repos\\QandQ.MovieAPI\\QandQ.Services\\QandQ.Services.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\mrFatih\\source\\repos\\QandQ.MovieAPI\\QandQ.Core\\QandQ.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\mrFatih\\source\\repos\\QandQ.MovieAPI\\QandQ.Core\\QandQ.Core.csproj",
+        "projectName": "QandQ.Core",
+        "projectPath": "C:\\Users\\mrFatih\\source\\repos\\QandQ.MovieAPI\\QandQ.Core\\QandQ.Core.csproj",
+        "packagesPath": "C:\\Users\\mrFatih\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mrFatih\\source\\repos\\QandQ.MovieAPI\\QandQ.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\mrFatih\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\mrFatih\\source\\repos\\QandQ.MovieAPI\\QandQ.Services\\QandQ.Services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\mrFatih\\source\\repos\\QandQ.MovieAPI\\QandQ.Services\\QandQ.Services.csproj",
+        "projectName": "QandQ.Services",
+        "projectPath": "C:\\Users\\mrFatih\\source\\repos\\QandQ.MovieAPI\\QandQ.Services\\QandQ.Services.csproj",
+        "packagesPath": "C:\\Users\\mrFatih\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mrFatih\\source\\repos\\QandQ.MovieAPI\\QandQ.Services\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\mrFatih\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\mrFatih\\source\\repos\\QandQ.MovieAPI\\QandQ.Core\\QandQ.Core.csproj": {
+                "projectPath": "C:\\Users\\mrFatih\\source\\repos\\QandQ.MovieAPI\\QandQ.Core\\QandQ.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
