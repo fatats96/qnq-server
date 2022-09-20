@@ -1,10 +1,12 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Mvc;
 using QandQ.Core.Models;
 using QandQ.Core.Repositories;
 
 namespace QandQ.MovieAPI.Controllers
 {
     [ApiController]
+    [Authorize]
     [Route("[controller]")]
     public class FavoriteController : ControllerBase
     {

@@ -6,6 +6,7 @@ using QandQ.Core.Repositories;
 namespace QandQ.MovieAPI.Controllers
 {
     [ApiController]
+    [Authorize]
     [Route("[controller]")]
     public class MovieController : ControllerBase
     {
