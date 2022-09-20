@@ -11,8 +11,8 @@ using QandQ.Data.Context;
 namespace QandQ.Data.Migrations
 {
     [DbContext(typeof(MovieContext))]
-    [Migration("20220914162740_InitialMigration")]
-    partial class InitialMigration
+    [Migration("20220915174500_Initial")]
+    partial class Initial
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
@@ -22,6 +22,27 @@ namespace QandQ.Data.Migrations
                 .HasAnnotation("Relational:MaxIdentifierLength", 63);
 
             NpgsqlModelBuilderExtensions.UseIdentityByDefaultColumns(modelBuilder);
+
+            modelBuilder.Entity("QandQ.Core.Models.Genre", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("integer");
+
+                    NpgsqlPropertyBuilderExtensions.UseIdentityByDefaultColumn(b.Property<int>("Id"));
+
+                    b.Property<int>("GenreId")
+                        .HasColumnType("integer");
+
+                    b.Property<string>("Name")
+                        .IsRequired()
+                        .HasMaxLength(50)
+                        .HasColumnType("character varying(50)");
+
+                    b.HasKey("Id");
+
+                    b.ToTable("Genres", (string)null);
+                });
 
             modelBuilder.Entity("QandQ.Core.Models.User", b =>
                 {

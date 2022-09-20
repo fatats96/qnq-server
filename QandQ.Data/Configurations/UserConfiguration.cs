@@ -24,6 +24,8 @@ namespace QandQ.Data.Configurations
             builder.HasIndex(x => x.Email).IsUnique();
             builder.Property(x => x.Email).IsRequired();
 
+            builder.HasMany(x => x.Favourites).WithOne(x => x.User);
+
             builder.ToTable("Users");
         }
     }

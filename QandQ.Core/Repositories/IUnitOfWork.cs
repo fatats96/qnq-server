@@ -9,6 +9,11 @@ namespace QandQ.Core.Repositories
     public interface IUnitOfWork : IDisposable
     {
         IAuthRepository Auth { get; }
+        IGenreRepository GenreRepository { get; }
+        IMovieRepository MovieRepository { get; }
+        IFavoriteRepository FavoriteRepository { get; }
+        IUserRepository UserRepository { get; }
+
         Task<int> CommitAsync();
     }
 }

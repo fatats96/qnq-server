@@ -10,7 +10,6 @@ namespace QandQ.Core.Repositories
     public interface IAuthRepository : IRepository<User>
     {
         Task<User> LoginAsync(User credentials);
-
         Task<User> GetByIdAsync(int id);
     }
 }

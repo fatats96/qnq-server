@@ -5,10 +5,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace QandQ.Core.Services
+namespace QandQ.Core.Repositories
 {
-    internal interface IAuthService
+    public interface IUserRepository : IRepository<User>
     {
-        Task<bool> Login(User credentials);
+        public Task<IEnumerable<Favorite>> GetFavoriteAsync(int userId);
     }
 }

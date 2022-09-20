@@ -1,8 +1,16 @@
 {
   "version": 2,
-  "dgSpecHash": "6eLarK/B3NYwqePmcZXH+gA1U8x5NMLBzslhBDGVCmRkJalVG/e/7h3SuGHuqhZm+AdeiAca1qoJ8SKMCxRRXw==",
+  "dgSpecHash": "hhgqLzf1LXSg+QXvw+oygoOrsyCZbz5dxsDb9StdevyWGW2yUoLE7/JBgiureqCIObivgW7EcCP7UEt7NULZFw==",
   "success": true,
   "projectFilePath": "C:\\Users\\mrFatih\\source\\repos\\QandQ.MovieAPI\\QandQ.Services\\QandQ.Services.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\mrFatih\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\6.0.0\\microsoft.extensions.configuration.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\mrFatih\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\mrFatih\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\6.0.0\\microsoft.extensions.fileproviders.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\mrFatih\\.nuget\\packages\\microsoft.extensions.hosting.abstractions\\6.0.0\\microsoft.extensions.hosting.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\mrFatih\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\mrFatih\\.nuget\\packages\\newtonsoft.json\\12.0.2\\newtonsoft.json.12.0.2.nupkg.sha512",
+    "C:\\Users\\mrFatih\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

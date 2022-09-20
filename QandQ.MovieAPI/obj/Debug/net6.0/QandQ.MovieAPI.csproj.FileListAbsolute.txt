@@ -19,6 +19,7 @@ C:\Users\mrFatih\source\repos\QandQ.MovieAPI\QandQ.MovieAPI\bin\Debug\net6.0\Mic
 C:\Users\mrFatih\source\repos\QandQ.MovieAPI\QandQ.MovieAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
 C:\Users\mrFatih\source\repos\QandQ.MovieAPI\QandQ.MovieAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
 C:\Users\mrFatih\source\repos\QandQ.MovieAPI\QandQ.MovieAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\mrFatih\source\repos\QandQ.MovieAPI\QandQ.MovieAPI\bin\Debug\net6.0\Newtonsoft.Json.dll
 C:\Users\mrFatih\source\repos\QandQ.MovieAPI\QandQ.MovieAPI\bin\Debug\net6.0\Npgsql.dll
 C:\Users\mrFatih\source\repos\QandQ.MovieAPI\QandQ.MovieAPI\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
 C:\Users\mrFatih\source\repos\QandQ.MovieAPI\QandQ.MovieAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
@@ -47,3 +48,6 @@ C:\Users\mrFatih\source\repos\QandQ.MovieAPI\QandQ.MovieAPI\obj\Debug\net6.0\ref
 C:\Users\mrFatih\source\repos\QandQ.MovieAPI\QandQ.MovieAPI\obj\Debug\net6.0\QandQ.MovieAPI.pdb
 C:\Users\mrFatih\source\repos\QandQ.MovieAPI\QandQ.MovieAPI\obj\Debug\net6.0\QandQ.MovieAPI.genruntimeconfig.cache
 C:\Users\mrFatih\source\repos\QandQ.MovieAPI\QandQ.MovieAPI\obj\Debug\net6.0\ref\QandQ.MovieAPI.dll
+C:\Users\mrFatih\source\repos\QandQ.MovieAPI\QandQ.MovieAPI\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\mrFatih\source\repos\QandQ.MovieAPI\QandQ.MovieAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\mrFatih\source\repos\QandQ.MovieAPI\QandQ.MovieAPI\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
